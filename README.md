@@ -1,9 +1,9 @@
-# 🍲 DapurKanda — Katalog Resep Anak Kost & Portal Modul Project Akhir
+# 🍲 DapurKanda  Katalog Resep Anak Kost & Portal Modul Project Akhir
 
 **DapurKanda** adalah aplikasi web pencarian resep masakan harian yang dirancang untuk membantu mahasiswa dan anak kost (khususnya di sekitar kampus FT-UH Gowa & Tamalanrea Makassar) menemukan ide masakan praktis beserta takaran bahan dan video tutorial. Website ini sekaligus berfungsi sebagai **Contoh Project Jadi (Reference Project)** dan **Portal Panduan Interaktif** untuk *Project Akhir Divisi Website — Coder Institute HMIF FT-UH 2026*.
 
 ## Live Demo
-https://dapurkanda-coder-ftuh.vercel.app *(Ganti dengan link Vercel setelah di-deploy)*
+https://project-akhir-webcoder-2026.vercel.app/  
 
 ## Screenshot
 *(Minimal 2 gambar: tampilan desktop dan mobile — simpan gambar di folder `public/` atau `src/assets/` lalu tampilkan di sini)*
